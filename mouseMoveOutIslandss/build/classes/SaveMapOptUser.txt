@@ -1,0 +1,25 @@
+
+OPT1:
+Số lần di chuyển của con chuột: 9
+Số lần con chuột gặp cái bay: 0
+Số lần con chuột chết: 1
+Số lần con chuột chết đói: 0
+Số lần con chuột ra khỏi đảo0
+OPT2:
+Số lần di chuyển của con chuột: 953
+Số lần con chuột gặp cái bay: 14
+Số lần con chuột chết: 100
+Số lần con chuột chết đói: 1
+Số lần con chuột ra khỏi đảo0
+OPT3:
+Số lần di chuyển của con chuột: 1419
+Số lần con chuột gặp cái bay: 27
+Số lần con chuột chết: 100
+Số lần con chuột chết đói: 1
+Số lần con chuột ra khỏi đảo0
+OPT3:
+Số lần di chuyển của con chuột: 1387
+Số lần con chuột gặp cái bay: 22
+Số lần con chuột chết: 100
+Số lần con chuột chết đói: 1
+Số lần con chuột ra khỏi đảo0
